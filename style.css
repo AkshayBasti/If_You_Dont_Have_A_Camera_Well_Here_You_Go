@@ -11,3 +11,13 @@ h4
     color: chartreuse;
     text-align: center;
 }
+
+.copy_right_footer {
+    position: fixed;
+    color: mediumspringgreen;
+    bottom: 0;
+    width: 100%;
+    background-color:midnightblue;
+    line-height:3;
+    text-align: center;
+}
